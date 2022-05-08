@@ -5,7 +5,7 @@
 [qrcode](qrcode.png)
 
 ## Requirements
-- ### Installer Python [Python](https://www.python.org/)
+- ### Installer [Python](https://www.python.org/)
     * procèdure d'installation:
         1.  Téléchargez le programme d'installation du fichier exécutable Windows x86-64 de Python 3.7 à partir de la page de téléchargements de Python.org.
         2.  Exécutez le programme d'installation.
